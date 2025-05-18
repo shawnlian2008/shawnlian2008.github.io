@@ -1,2 +1,2 @@
 # shawnlian2008.github.io
-Project websites.
+This is the website that I will be using in order to display my various projects throughout high school and college.
